@@ -1,0 +1,14 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\bin\Debug\netcoreapp3.1\Pi Calculator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\bin\Debug\netcoreapp3.1\Pi Calculator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\bin\Debug\netcoreapp3.1\Pi Calculator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\bin\Debug\netcoreapp3.1\Pi Calculator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\bin\Debug\netcoreapp3.1\Pi Calculator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\bin\Debug\netcoreapp3.1\Pi Calculator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit D\Pi Calculator\Pi Calculator\obj\Debug\netcoreapp3.1\Pi Calculator.genruntimeconfig.cache
